@@ -19,14 +19,29 @@ The research master _Brain and Cognitive Sciences_ is predicated on the notion t
 |Learning Skills|<ul><li>- [ ] You can manage your time on a prolonged project effectively.<li>- [ ] You can seek out information via literature and experts.<li>- [ ] You can logically argue to what extent different sources answer your research question.</ul>|
 
 
-That is a lot stuff, and not all of it is very _measurable_, so we brought them down to a handful of learning objectives.
+That is a lot stuff, and not all of it is very _measurable_, so we brought them down to a handful of learning objectives that we can assess.
 
-## Learning Objectives
-1. Collaborate effectively with scientists who have different disciplinary perspectives
-2. Formulate scientifically informed answers or solutions for questions posed by scientists or non-academic partners
-3. Integrate multidiscipinary insights to arrive at an interdisciplinary explanation
-4. Reflect on the scientific process and your role in this process
+## Learning Objectives and Assessment
+
+|Learning Objective|Assessment|
+|--:|:---:|
+|Collaborate effectively with scientists who have different disciplinary perspectives|Pressure Cooker, written report|
+|Formulate scientifically informed answers or solutions for questions posed by scientists or non-academic partners|Prototype presentations, written report|
+|Critically assess scientific sources|Critical feedback, written report|
+|Integrate multidiscipinary insights to arrive at an interdisciplinary explanation|Written report|
+|Reflect on the scientific process and your role in this process|none?|
+
 
 ## Teaching Methods
+You will reach these objectives by working on the answer to a big question (your special topic), together with two or three other students. You can choose the big question from a shortlist that is provided at the start of the course. Half of the questions were formulated by ABC researchers and half of them were formulated by non-academic partners. All of them lie at the intersection of different disciplines. During the process of answering the question, you will collect and discuss literature, meet with experts, pitch preliminary answers and finally write a summative report of your research.
+
+The development of the answer will be structued around a development cycle called Design Thinking. Activities are tied into this cycle, as can be seen in the table below. These activities and several assignments will ensure a good cadence to your research cycle.
+
+|Design Thinking Phase|Goals|Activities|
+|:-:|:-:|:-:|
+|Empathize|<ul><li>Explore available literature.<li>Decide on an angle to address the special topic.<li>Speak to experts in different disciplines about your (and their!) ideas.</ul>| |
+
+
+
 
 	
