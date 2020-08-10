@@ -39,8 +39,27 @@ The development of the answer will be structued around a development cycle calle
 
 |Design Thinking Phase|Goals|Activities|
 |:-:|:-:|:-:|
-|Empathize|<ul><li>Explore available literature.<li>Decide on an angle to address the special topic.<li>Speak to experts in different disciplines about your (and their!) ideas.</ul>| |
+|Empathize|<ul><li>Explore available literature.<li>Think about different angles to address the special topic.<li>Speak to experts in different disciplines about your (and their!) ideas.</ul>|Lectures, tutorials, expert meetings |
+|Define|<ul><li>Determine your specific research question.<li>Decide which disciplines (at least three) can contribute to answering the question.</ul>|Pressure Cooker|
+|Ideate|<ul><li>Gain deeper understanding of the system you are researching.<li>Visualize any important mechanisms.<li>Consider different possible answers to your research questions.<li>Argue in favor of a specific answer.</ul>|Pressure Cooker|
+|Prototype|<ul><li>Create a preliminary answer to the research question.<li>Discuss your answer with peers.<li>Gain feedback on your current ideas.</ul>|Pressure cooker |
+|Test|<ul><li>Pitch your answer to expert(s).<li>Write a report to argue for your answer.</ul>|Expert meetings, progress meetings|
 
+## Learning activities
+|Activity|Hours|
+|:--:|:--:|
+|Lectures|10|
+|Tutorials|32|
+|Pressure Cooker|30|
+|Symposium|3|
+|Self-study|46|
+|Project|47|
+|Total|168|
+
+## Attendance
+Your attendance is required during the tutorials, progress meetings and pressure cooker. You can miss at most 20% of those mandatory activities. Presence during all other activities is strongly recommended.
+
+## Assessment
 
 
 
