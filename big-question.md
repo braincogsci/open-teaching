@@ -1,6 +1,6 @@
 # The Big Question
 
-In the course _Special Topic in Cognitive Science_, student will work in groups to arrive at an interdisciplinary analysis of a specific topic that is relevant to Brain and Cognitive Sciences. To arrive at their answer, they will search through literature, talk to experts and make progress via tutorials that offer them instruments to understand and recombine insights from different fields. While doing so, they will learn how to work as interdisciplinary scientists.
+In the course _Special Topic in Cognitive Science_, student will work in groups to arrive at an interdisciplinary analysis of a specific topic that is relevant to brain and cognitive sciences. To arrive at their answer, they will search through literature, talk to experts and make progress via tutorials that offer them instruments to understand and recombine insights from different fields. While doing so, they will learn how to work as interdisciplinary scientists.
 
 Central to this journey are the Big Questions, important issues that are raised by scientists who work on cognition or neuroscience. These questions are:
 
