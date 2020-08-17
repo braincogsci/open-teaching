@@ -31,14 +31,13 @@ That is a lot stuff, and not all of it is very _measurable_, so we brought them 
 |Integrate multidiscipinary insights to arrive at an interdisciplinary explanation|Written report|
 |Reflect on the scientific process and your role in this process|none?|
 
-
 ## Teaching Methods
 You will reach these objectives by working on the answer to a big question (your special topic), together with two or three other students. You can choose the big question from a shortlist that is provided at the start of the course. Half of the questions were formulated by ABC researchers and half of them were formulated by non-academic partners. All of them lie at the intersection of different disciplines. During the process of answering the question, you will collect and discuss literature, meet with experts, pitch preliminary answers and finally write a summative report of your research.
 
-The development of the answer will be structued around a development cycle called Design Thinking. Activities are tied into this cycle, as can be seen in the table below. These activities and several assignments will ensure a good cadence to your research cycle.
+The development of the answer will be structured around a development cycle called Design Thinking. Activities are tied into this cycle, as can be seen in the table below. These activities and several assignments will ensure a good cadence to your research cycle.
 
 |Design Thinking Phase|Goals|Activities|
-|:-:|:-:|:-:|
+|:--:|:--:|:--:|
 |Empathize|<ul><li>Explore available literature.<li>Think about different angles to address the special topic.<li>Speak to experts in different disciplines about your (and their!) ideas.</ul>|Lectures, tutorials, expert meetings |
 |Define|<ul><li>Determine your specific research question.<li>Decide which disciplines (at least three) can contribute to answering the question.</ul>|Pressure Cooker|
 |Ideate|<ul><li>Gain deeper understanding of the system you are researching.<li>Visualize any important mechanisms.<li>Consider different possible answers to your research questions.<li>Argue in favor of a specific answer.</ul>|Pressure Cooker|
@@ -46,6 +45,8 @@ The development of the answer will be structued around a development cycle calle
 |Test|<ul><li>Pitch your answer to expert(s).<li>Write a report to argue for your answer.</ul>|Expert meetings, progress meetings|
 
 ## Learning activities
+The structure of the course is such that you are guided through working on your project. You can find a detailed structure of the course on https://datanose.nl/#course[88722].
+
 |Activity|Hours|
 |:--:|:--:|
 |Lectures|10|
@@ -60,7 +61,18 @@ The development of the answer will be structued around a development cycle calle
 Your attendance is required during the tutorials, progress meetings and pressure cooker. You can miss at most 20% of those mandatory activities. Presence during all other activities is strongly recommended.
 
 ## Assessment
+While you are working on your project, different milestones will be assessed to determine your final grade.
 
+|Milestone|Deadline|Weight|
+|:--:|:--:|:--:|
+|Integration Plan|November 9, 2020|10%|
+|Critical Analysis of Causal Map|December 14, 2020|10%|
+|Pressure Cooker Pitch|January 29, 2021|30%|
+|Final Product|April 19, 2021|50%|
 
+You can find more detailed descriptions of these assignments on the Canvas page of the course.
+
+# Literature
+All literature will be cited on Canvas.
 
 	
