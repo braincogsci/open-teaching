@@ -9,8 +9,8 @@
 # Integration Plan
 Integrating different disciplinary perspectives is the cornerstone of interdisciplinary research. The Integration Plan is a description of how you want to achieve that. It consists of the following components.
 
-1. Your research question, including a justification of why there is academic and/or societal interest in this question.
-2. An enumeration of at least three disciplines that are valuable when answering the research question, including a summary of important insights from those disciplines (including citations).
+1. Your (adapted) Big Question, including a justification of why there is academic and/or societal interest in this question.
+2. An enumeration of at least three disciplines that are valuable when answering the  question, including a summary of important insights from those disciplines (including citations).
 3. For every important insight, a section describing what the perspectives from the other disciplines on this insight are, if any. Sometimes they will match the insight (convergence), sometimes they will oppose it (tension).
 4. A visualization of the system that is relevant to your research question, using the Causal Map approach.
 5. An overview of which tensions between disciplines you should still receive and which connections on your Causal Map still need more elucidation via literature and/or experts.
