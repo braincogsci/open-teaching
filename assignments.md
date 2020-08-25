@@ -29,7 +29,7 @@ The first question is meant to ensure that definitions are clear and precise, th
 
 We have also discussed how a critical dialogue can circumvent the "cognitive immune system", which is biased against persuasion by others and biased towards prior convictions.
 
-In this assignment, you will use the critical dialogue method to examine the causal map of another project group. You will also be questioned about your own causal map by another group. The form of this will be a sort of talk show: students from your and from another group will be seated at a table with the rest of the group as audience and with your very own tutor as moderator.
+In this assignment, you will use the critical dialogue method to examine the causal map of another project group. You will also be questioned about your own causal map by another group. The form of this will be a sort of talk show: students from your and from another group will be seated at a table with the rest of the group as audience and with your very own tutor as moderator. Additionally, you will  write a short commentary on the causal map of the other project group.
 
 ## Prepare for two roles
 Your group will engage in two rounds of questioning: in one round your group will *ask* questions about another causal map and in another round your group will *answer* questions about your own causal map. During the tutorial in which the rounds take place, your tutor will pick which representatives from your group will engage in which round, so make sure you are prepared for both roles!
@@ -88,7 +88,7 @@ At the end of the Pressure Cooker, you will have arrived a prototype for an answ
 # Critical review
 The critical attitude is a central part of what it means to be a scientist. It does not mean that you should approach information negatively, however. On the contrary, critical assessment is at its most useful if it's done constructively. It means that you should carefully consider a line of argumentation, examine its logic and see if it fits with all the evidence available to you. It means that you should ask the right questions to make sure that a given piece of reasoning is solid. 
 
-For this assignment you will play the role of a scientist who is peer reviewing a paper that was submitted to a scientific journal. While two of the papers we're using for the assignment are actually already published, you will pretend they are not and you will judge whether they should be published. This is done by providing the editor of the journal with one of the following recommendations:
+For this assignment you will play the role of a scientist who is peer reviewing a paper that was submitted to a scientific journal. You can choose a paper you have come across while researching your topic. While you are using papers that were actually already published, you will pretend they are not and you will judge whether they should be published. This is done by providing the editor of the journal with one of the following recommendations:
 
 * Publish as is. This is saying that the paper is good as it is and that it can be published. This advice is hardly ever given in reality.
 * Publish, pending minor revisions. This is saying that the paper is good and worthy of publication, but that some aspects should be improved before it is really ready to appear in print. If issues are relatively easy to fix, you can consider them minor
@@ -126,3 +126,12 @@ You are expected to:
 7. Maintain a polite, constructive tone (include suggestions);
 8. Include a recommendation in the letter that reflects your assessment.
 
+# Final product
+You will close off STICS with a final product that helps to answer the Big Question you started with. You have a lot of freedom to choose the form of this final product: it could be a literature review, it could be a policy advise, it could be an extended research proposal, or something else that you find fits well with your question (make sure to discuss your choice with your tutor, though!).
+
+The final product will be graded on:
+
+* Interdisciplinarity: does the work bring together different perspectives into an integrated whole?
+* Academic quality: does the product display a critical understanding of the subject matter? Does it ground claims in empirical/rational arguments?
+* Effectiveness: does the product indeed address the Big Question raised at the start of the course?
+* Style and format: is the product well-produced (e.g. good writing, layout).
