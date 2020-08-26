@@ -29,20 +29,28 @@ That is a lot stuff, and not all of it is very _measurable_, so we brought them 
 |Formulate scientifically informed answers or solutions for questions posed by scientists or non-academic partners|Prototype presentations, written report|
 |Critically assess scientific sources|Critical review, written report|
 |Integrate multidiscipinary insights to arrive at an interdisciplinary explanation|Written report|
-|Reflect on the scientific process and your role in this process|none?|
 
 ## Teaching Methods
-You will reach these objectives by working on the answer to a big question (your special topic), together with two or three other students. You can choose the big question from a shortlist that is provided at the start of the course. Half of the questions were formulated by ABC researchers and half of them were formulated by non-academic partners. All of them lie at the intersection of different disciplines. During the process of answering the question, you will collect and discuss literature, meet with experts, pitch preliminary answers, write a peer review of a key paper in your research and finally write a summative report of your project.
+You will reach these objectives by working on the answer to a big question (your special topic), together with two or three other students. You can choose the big question from a shortlist that is provided at the start of the course. All of the questions on that list lie at the intersection of different disciplines. During the process of answering the question, you will collect and discuss literature, meet with experts, pitch preliminary answers, write a peer review of a key paper you found during your research and finally write a summative report of your project.
 
-The development of the answer will be structured around a development cycle called Design Thinking. Activities are tied into this cycle, as can be seen in the table below. These activities and several assignments will ensure a good cadence to your research cycle.
+### Design Thinking
+The development of the answer will be structured around a development cycle called Design Thinking. Design Thinking is a useful approach when you are venturing into new territories. It consists of five different phases.
+
+![5 steps of design thinking](https://writtenbykhadijah.files.wordpress.com/2018/11/dt.jpg)
+
+The early stage, **empathizing**, corresponds to getting a good idea of the landscape of knowledge related to your Special Topic. This means desk research via journals and other sources, organizing insights, finding differences and similarities between different disciplines, interviewing experts and visualizing your findings. This is something you will be doing in the run-up to December. During this time, you will also draft an Integration Plan (a document that summarizes how you will bring different disciplines together) and will critically assess the work of fellow students.
+
+The middle stages are **define**, **ideate** and **prototype**. You will go through these phases in January, during intensive weeks known as the Pressure Cooker. In the define stage, you will narrow down your research question. You will also decide with your tutor which form your final product for the course will take. In the ideate stage, you will start dreaming up this final product, using a variety of tools that will be at your disposal.  Then, finally, in the prototype stage you will present your ideas to a panel of experts, who will give feedback for you. 
+
+From February to April, you will tweak and improve your prototype during the **test** phase, in which you create a final product with your tutor as a mentor to check on your progress. In this test phase, you will also write a critical review of one of the research papers you have been using.
 
 |Design Thinking Phase|Goals|Activities|
 |:--:|:--:|:--:|
-|Empathize|<ul><li>Explore available literature.<li>Think about different angles to address the special topic.<li>Speak to experts in different disciplines about your (and their!) ideas.<li>Create a Causal Map to visualize your understanding of your system of interest.</ul>|Lectures, tutorials, expert meetings |
-|Define|<ul><li>Determine your specific research question.<li>Decide which disciplines (at least three) can contribute to answering the question.</ul>|Pressure Cooker|
-|Ideate|<ul><li>Gain deeper understanding of the system you are researching.<li>Visualize any important mechanisms.<li>Consider different possible answers to your research questions.<li>Argue in favor of a specific answer.</ul>|Pressure Cooker|
-|Prototype|<ul><li>Create a preliminary answer to the research question.<li>Discuss your answer with peers.<li>Gain feedback on your current ideas.</ul>|Pressure cooker |
-|Test|<ul><li>Pitch your answer to expert(s).<li>Write a report to argue for your answer.</ul>|Expert meetings, progress meetings|
+|Empathize|<ul><li>Explore available literature.<li>Think about different disciplinary perspectives and their relationships, to address your special topic.<li>Speak to experts in different disciplines about your (and their!) ideas.<li>Create a Causal Map to visualize your understanding of your system of interest.</ul>|Lectures, tutorials, expert meetings |
+|Define|<ul><li>Determine your specific research question and output format.<li>Decide which disciplines (at least three) will contribute to answering the question.</ul>|Pressure Cooker|
+|Ideate|<ul><li>Reflect on the knowledge you have gathered and create an answer to the question you are investigating.</ul>|Pressure Cooker|
+|Prototype|<ul><li>Create a preliminary answer to the research question.<li>Discuss your answer with experts.<li>Gain feedback on your current ideas.</ul>|Pressure cooker |
+|Test|<ul><li><li>Create a final product that clearly conveys your (substantiated) answer to your research question</ul>|Progress meetings, tutorials|
 
 ## Learning activities
 The structure of the course is such that you are guided through working on your project. You can find a detailed structure of the course on https://datanose.nl/#course[88722].
@@ -51,9 +59,9 @@ The structure of the course is such that you are guided through working on your 
 |:--:|:--:|
 |Lectures|10|
 |Tutorials|32|
-|Pressure Cooker|30|
+|Pressure Cooker|40|
 |Symposium|3|
-|Self-study and Assignments|46|
+|Self-study and Assignments|36|
 |Project|47|
 |Total|168|
 
@@ -71,9 +79,10 @@ While you are working on your project, different milestones will be assessed to 
 |Critical Review|February 23, 2021|15%|
 |Final Product|April 19, 2021|50%|
 
-You can find more detailed descriptions of these assignments on the Canvas page of the course.
+More details on the assignments can be found at the course Canvas page.
+
+## Partial grades and resits
+*STICS* runs through a large portion of the first year and doing a resit for the full course is therefore a large investment. Students who are unable to attend parts of the course due to personal circumstances should contact the study advisor via studieadviseur-iis@uva.nl. For those students, alternative assignments may be issued to compensate for attendance gaps.
 
 # Literature
 All literature will be cited on Canvas.
-
-	
