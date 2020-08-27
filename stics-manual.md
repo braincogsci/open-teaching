@@ -5,7 +5,7 @@
 |Course Code|5244STIC6Y|
 |Credits|6|
 |Period|1 to 5|
-|Course Coordinators|Celia Gkavanozi & Romke Rouw|
+|Course Coordinators||
 
 ## Introduction
 The research master _Brain and Cognitive Sciences_ is predicated on the notion that exciting stuff happens if scientists operate at the boundaries between different fields. But what is needed for good, interdisciplinary research? Which skills and attitudes does it require? Which tools and best practices are there to pursue interdisciplinarity? And what _is_ interdisciplinarity in the first place? _Special Topic in Cognitive Science_ aims to teach you how to work on research questions that require input from different fields. This means that the course pays a lot of attention to the _process_ of such research, with you and your fellow students bringing in the substance. This process is illustrated as you work on a 'Special Topic', a big question that is related to brain and cognitive science. In the end, you should be able to check the following boxes:
